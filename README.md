@@ -3,16 +3,12 @@ Overview
 
 Airtel Zambia is a premier telecommunications provider in Zambia, delivering a comprehensive range of services designed to meet the communication needs of individuals, businesses, and enterprises across the nation. As a subsidiary of Bharti Airtel, a global telecommunications giant, Airtel Zambia combines local expertise with international standards, ensuring high-quality service delivery and customer satisfaction.
 Services Offered
-1. Mobile Services
 
-Airtel Zambia provides extensive mobile network coverage across both urban and rural areas, offering a variety of voice and data services. The company supports 2G, 3G, and 4G connectivity, with future plans to introduce 5G technology to enhance customer experience further. Whether it's making calls, sending messages, or browsing the internet, Airtel Zambia ensures that customers stay connected wherever they are.
-2. Data Solutions
+1. Data Solutions
 
 Understanding the growing demand for reliable internet access, Airtel Zambia offers a variety of data bundles tailored to meet the diverse needs of its customers. From daily to monthly plans, users can choose packages that best fit their usage patterns. Additionally, Airtel's broadband services cater to both individuals and businesses, providing fast and affordable internet solutions.
-3. Airtel Money
 
-Airtel Money is a key service that revolutionizes the way people manage their finances in Zambia. It allows users to send and receive money, pay bills, purchase airtime, and even access loans, all through their mobile phones. This service is particularly beneficial in regions with limited access to traditional banking facilities, fostering financial inclusion across the country.
-4. Enterprise Solutions
+2. Enterprise Solutions
 
 For businesses, Airtel Zambia offers a suite of enterprise solutions designed to enhance operational efficiency and connectivity. Services include Virtual Private Networks (VPNs), cloud services, Internet of Things (IoT) solutions, and more. These tailored services enable businesses to remain competitive in an increasingly digital world.
 Commitment to Customer Satisfaction
@@ -29,27 +25,27 @@ Getting Started
 This repository contains information and resources related to Airtel Zambia's service offerings and corporate initiatives. Explore the different sections to learn more about how Airtel Zambia is making a difference in the telecommunications industry and beyond.
 Installation
 
-    No installation is required for Airtel Zambia services. You can access our mobile and data services by subscribing to our packages through the Airtel website or visiting one of our retail outlets.
-    To use Airtel Money, download the Airtel Money app from your respective app store or dial *211# on your Airtel mobile device.
+    No installation is required for this Airtel Zambia services App.
+    its a terminal based app built with Pyhton.
+    To run the script, navigate to the project directory and enter the following command in your terminal:
+    python AIRTEL.py
 
 Usage
 
     Mobile Services: Recharge your Airtel number using airtime vouchers or via Airtel Money, and start making calls, sending SMS, or using data.
-    Data Bundles: Purchase a data bundle suited to your needs via the Airtel app, website, or USSD.
-    Airtel Money: Register for Airtel Money, deposit funds, and start transacting securely and conveniently.
-    Enterprise Solutions: Contact our sales team to discuss bespoke solutions for your business needs.
+    Data Bundles: Purchase a data bundle suited to your needs via the Airtel USSD CODE *117#.
+    
 
 Support
 
-For customer support, contact us via:
+For User support, contact us via:
 
-    24/7 Helpline: Dial 111 from your Airtel mobile
-    Email: support@airtel.co.zm
-    Social Media: Follow us on Twitter, Facebook, and Instagram @AirtelZambia
+    Helpline: Dial +260 972 770 485 from your Airtel mobile
+    Email: chibznicky@gmail.com
 
 Contribution
 
 This repository is intended for informational purposes only. If you have suggestions for improvement or would like to contribute to our knowledge base, please feel free to submit a pull request or open an issue.
 License
 
-This project is licensed under the MIT License. Please refer to the LICENSE.md file for details.
+This project is licensed under CHIBZ.
